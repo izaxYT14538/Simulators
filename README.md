@@ -32,3 +32,12 @@ smartwatchsim Screenshots
 ![6](https://user-images.githubusercontent.com/101516262/180625740-2c960d8e-8f00-4f9f-af3c-48642e91fd33.PNG)
 ![1](https://user-images.githubusercontent.com/101516262/180625741-4046b372-3d73-41b1-a5d8-50f16c37b3de.PNG)
 ![2](https://user-images.githubusercontent.com/101516262/180625743-a56a5376-0f1e-4936-a169-3085bd661127.PNG)
+
+ossim Screenshots
+![1](https://user-images.githubusercontent.com/101516262/180625763-5b876785-ff74-47c9-8088-201a4608d57f.PNG)
+![2](https://user-images.githubusercontent.com/101516262/180625764-c68f8f2c-9d24-41a8-af40-26dda50c133c.PNG)
+![3](https://user-images.githubusercontent.com/101516262/180625767-23b8e366-779c-41ff-a87a-1762fa2be5b0.PNG)
+![4](https://user-images.githubusercontent.com/101516262/180625768-5f6832f3-afc7-4271-abb9-2cd59c869660.PNG)
+![5](https://user-images.githubusercontent.com/101516262/180625769-400a07ab-3824-449e-9b3f-6dd609e05b91.PNG)
+![6](https://user-images.githubusercontent.com/101516262/180625770-6b7bd10b-1c80-4516-917d-d0bcc2d797b6.PNG)
+![7](https://user-images.githubusercontent.com/101516262/180625771-732e655c-f63f-4a70-9219-dbec0d4e55c2.PNG)
